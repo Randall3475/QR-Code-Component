@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Card = styled.article`
   background-color: #FFFFFF;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
   border-radius: 20px;
   max-width: 320px;
   max-height: 497px;
