@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
       <Global />
-      <Main role="main">
+      <Main>
         <QrCode
           image={QrCodeImage}
           description="QR code leading to frontendmentor.io website"
